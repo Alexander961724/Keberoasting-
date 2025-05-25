@@ -7,5 +7,7 @@ This command uses Rubeus to request service tickets (TGS) for all accounts with 
 ## PART2. Sharing File. 
 I shared the file using smb. 
 ![File-Share](PART2.SHRING-SPN.TXT.WITHLINUXMACHINE.png)
+## PART3. Downloading file from Kali machine. 
+![File-Get](PART3downloading-SPN.TXT-FROMKALI.png)
 
 
