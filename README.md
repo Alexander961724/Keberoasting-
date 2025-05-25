@@ -14,7 +14,7 @@ This command uses Hashcat to crack Kerberoast hashes (mode 13100) from spn.txt u
 ![Hashcat](Part4-KEBEROSTING.png)
 ## 💥🔓 PART-5 Password Cracked 
 We got the password. 
-![Password]()
+![Password](CONTRASEÑA%CRACKEADA.png)
 ## 📄🔍 PART-6 
 I started reviewing the logs  to look for suspicious activity. While analyzing Event ID 4769, which logs Kerberos service ticket requests, I noticed unusual patterns that could indicate a Kerberoasting attempt. These logs helped me identify accounts that were being targeted.
 ![ ]()
