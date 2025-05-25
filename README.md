@@ -9,5 +9,5 @@ I shared the file using smb.
 ![File-Share](PART2.SHRING-SPN.TXT.WITHLINUXMACHINE.png)
 ## PART3. Downloading file from Kali machine. 
 ![File-Get](PART3downloading-SPN.TXT-FROMKALI.png)
-
+## PART4 Using hashcat
 
